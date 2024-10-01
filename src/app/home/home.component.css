@@ -1,0 +1,46 @@
+.display{
+    display: none;
+}
+.receipes{
+    margin: 20px;
+   
+}
+.container-fluid{
+    width: 80%;
+}
+.receipe{
+    margin: 20px;
+    justify-content: space-between;
+     
+
+}
+nav{
+    background-color: rgba(218, 206, 206, 0.61);
+}
+
+.col-2{
+    margin: 20px;
+    padding:20px;
+    width: 20%;
+    border-radius: 10px;
+     box-shadow: 0 0 20px rgb(43, 42, 42);
+    
+}
+.text{
+    font-size: 16px;
+    margin-top: 20px;
+     
+}
+ 
+.text{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+     justify-content: space-between;
+}
+.addtocart{
+     
+     border-radius: 5px;
+    color:black;
+    font-weight: 700;
+}
